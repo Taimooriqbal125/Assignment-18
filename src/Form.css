@@ -1,0 +1,19 @@
+*{
+    background-color: rgb(198, 152, 197);
+}
+#main1{
+position: relative; 
+left: 500px;
+width: 300px;
+}
+
+.btn{
+    background-color: rgba(225, 255, 0, 0.555);
+}
+
+ .element1{
+    padding-top: 20px;
+ }
+ .element{
+    border: 1px solid black;
+ }
